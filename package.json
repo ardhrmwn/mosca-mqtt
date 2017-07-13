@@ -1,0 +1,15 @@
+{
+  "name": "mosca-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "/usr/bin/node index.js"
+  },
+  "author": "Ardyanto Hermawan",
+  "license": "ISC",
+  "dependencies": {
+    "leveldown": "^1.7.2",
+    "mosca": "^2.1.0"
+  }
+}
